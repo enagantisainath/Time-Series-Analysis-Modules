@@ -7,6 +7,8 @@ This repository contain most of the modules/ techniques used for time series ana
 1. Moving Average
 2. Exponential Smoothing <br>
 3. AutoRegressive (AR) Model
+4. AutoRegressive Moving Average (ARMA) Model
+
 
 ( More topics will be added soon )
 
